@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #222222;
+    font-family: Verdana;
+    font-size: 60pt;
+    color: white;
+    text-align: center;
+    width: 40%;
+    margin: 20% auto;
+    border: 4px solid #43DCFF;
+    border-radius: 50px;
+}
